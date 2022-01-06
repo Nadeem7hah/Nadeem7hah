@@ -12,9 +12,9 @@
 - 📫 How to reach me: nadeem.shah0777@gmail.com
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Nadeem7hah&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=3600)](https://github.com/Nadeem7hah)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Nadeem7hah&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=3600)](https://github.com/syed-nadeem)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem7hah&layout=compact&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-nadeem&layout=compact&theme=default)
 
-![](https://komarev.com/ghpvc/?username=Nadeem7hah&color=ff69b4&style=flat-square) 
+![](https://komarev.com/ghpvc/?username=syed-nadeem&color=ff69b4&style=flat-square) 
 
